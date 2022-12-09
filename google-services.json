@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630838219947",
+    "project_id": "sellersapp-a9579",
+    "storage_bucket": "sellersapp-a9579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630838219947:android:2005b2278de7d4f3ccd3ee",
+        "android_client_info": {
+          "package_name": "com.example.sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630838219947-bn7dqjd7eauatrmv0h6bli8dlakfkd3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellers_app",
+            "certificate_hash": "4b0458c6693cb6533354e9459ba8a5bf53c13359"
+          }
+        },
+        {
+          "client_id": "630838219947-1t34o1lrkvvb4ec610mksiruqmposkmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg09wSCF6EyNDbTONTaPCiom5KR_UtJBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630838219947-1t34o1lrkvvb4ec610mksiruqmposkmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,12 +12,17 @@ dependencies:
   cloud_firestore: ^4.0.4
   firebase_auth: ^4.1.0
   firebase_core: ^2.1.1
+  firebase_storage: ^11.0.6
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.1
   flutter_localizations:
     sdk: flutter
+  image_picker: ^0.8.6
   intl: ^0.17.0
+  motion_toast: ^2.5.3
+  uuid: ^3.0.6
+  very_good_cli: ^0.8.4
 
 dev_dependencies:
   bloc_test: ^9.1.0
